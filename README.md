@@ -70,7 +70,7 @@
 ## 📫 Connect With Me
 
 - 💼 GitHub: https://github.com/uzair-coder
-- 📧 Email: your-email@example.com
+- 📧 Email: uzair.coder2@gmail.com
 - 🌐 Portfolio: coming soon...
 
 ---
