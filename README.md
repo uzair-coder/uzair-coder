@@ -42,11 +42,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzair-coder&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=uzair-coder&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzair-coder&layout=compact&theme=tokyonight)
 
----
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzair-coder&layout=compact&theme=tokyonight" />
+
 
 ## 🔥 What I'm Working On
 
