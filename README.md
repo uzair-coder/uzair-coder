@@ -51,7 +51,7 @@
 
 ## 🔥 What I'm Working On
 
-- 🐄 Qurbani Donation Platform (Alyaqeen Trust)
+- 🐄 Qurbani Donation Platform
 - 🧾 Dynamic Invoice & Payment System
 - 🛍️ Custom eCommerce Admin Panels
 - 🎥 Video upload & thumbnail systems
